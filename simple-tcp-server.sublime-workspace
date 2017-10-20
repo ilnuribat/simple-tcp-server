@@ -1,0 +1,346 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"buble",
+				"bubbleSortWhile"
+			],
+			[
+				"chc",
+				"checkResult"
+			],
+			[
+				"bub",
+				"bubbleSortFor"
+			],
+			[
+				"rd_",
+				"rd_events_user"
+			],
+			[
+				"rd_eve",
+				"rd_events_user"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"rd_ev",
+				"rd_events"
+			],
+			[
+				"rd_e",
+				"rd_events"
+			],
+			[
+				"repo",
+				"reports"
+			],
+			[
+				"st",
+				"store_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ilnur/projects/simple-tcp-server"
+	],
+	"file_history":
+	[
+		"/home/ilnur/projects/simple-tcp-server/client.sublime-project",
+		"/home/ilnur/Documents/Spontaneous planning.txt",
+		"/home/ilnur/cppProjects/study/percent.cpp",
+		"/home/ilnur/cppProjects/study/console.cpp",
+		"/home/ilnur/Pictures/english/page 110-111.md",
+		"/home/ilnur/Pictures/english/hometasks.txt",
+		"/home/ilnur/Music/copy.sh",
+		"/home/ilnur/Pictures/english/ted, JOHANN HARI, Everything you think you know about addiction is wrong.txt",
+		"/etc/hosts",
+		"/home/ilnur/Documents/piu-piu",
+		"/media/ilnur/M3/copy.sh",
+		"/home/ilnur/qtProjects/qrealplay/android/ssl support/openssl-1.0.2j/Makefile",
+		"/home/ilnur/qtProjects/qrealplay/android/ssl support/setEnv.sh",
+		"/home/ilnur/Downloads/messages (1)",
+		"/home/ilnur/qtProjects/qrealplay/android/ssl support/openssl-1.0.2l/Makefile",
+		"/home/ilnur/qtProjects/qrealplay/android/ssl support/openssl-1.0.2l/PROBLEMS",
+		"/home/ilnur/projects/vkApi/lfkTigr.js",
+		"/home/ilnur/.bash_history",
+		"/home/ilnur/projects/businessclub_backend/src/routes/v1/Users/index.js",
+		"/home/ilnur/cppProjects/buble/classic.cpp",
+		"/etc/haraka/README",
+		"/etc/haraka/package.json",
+		"/etc/haraka/config/spamassassin.ini",
+		"/etc/haraka/config/smtp.ini",
+		"/etc/haraka/config/plugins",
+		"/etc/haraka/config/loglevel",
+		"/etc/haraka/config/internalcmd_key",
+		"/etc/haraka/config/host_list",
+		"/etc/haraka/config/dkim/dkim_key_gen.sh",
+		"/home/ilnur/.cache/.fr-cKACN4/readme.txt",
+		"/home/ilnur/downloads/apache-jmeter-3.2/bin/jmeter",
+		"/home/ilnur/cppProjects/acmp/INPUT.TXT",
+		"/home/ilnur/cppProjects/acmp/doom.cpp",
+		"/home/ilnur/headWay/email.curl",
+		"/home/ilnur/cppProjects/acmp/doom",
+		"/home/ilnur/cppProjects/acmp/OUTPUT.TXT",
+		"/home/ilnur/cppProjects/acmp/149.cpp",
+		"/home/ilnur/cppProjects/acmp/685.cpp",
+		"/home/ilnur/projects/curl-format.txt",
+		"/home/ilnur/projects/arraySlice.js",
+		"/home/ilnur/Android/Sdk/tools/bin/sdkmanager",
+		"/home/ilnur/qtProjects/pixelDensity/pixelDensity.pro",
+		"/opt/android-studio/bin/studio.sh",
+		"/home/ilnur/downloads/New_Text_Document.txt",
+		"/home/ilnur/qtProjects/build/qrealplay-Desktop_Qt_5_8_0_GCC_64bit-Debug/settings.ini",
+		"/home/ilnur/cppProjects/study/hello.cpp",
+		"/home/ilnur/cppProjects/study/hello.js",
+		"/home/ilnur/Music/vk.sh",
+		"/home/ilnur/Music/generate.js",
+		"/home/ilnur/Music/vk_node.sh",
+		"/home/ilnur/gaika/delivery-company/npmtest.log",
+		"/home/ilnur/gaika/mysql.docker",
+		"/home/ilnur/projects/datediff.js",
+		"/home/ilnur/Documents/pass.sql",
+		"/home/ilnur/projects/nodejs4mobile/test/test_curls_ilnuribat.txt",
+		"/home/ilnur/projects/nodejs4mobile/test/test_culrs_local.txt",
+		"/home/ilnur/projects/test.js",
+		"/home/ilnur/projects/yandex/sum10.js",
+		"/home/ilnur/qtProjects/build-qrealplay-Desktop_Qt_5_7_0_GCC_64bit-Debug/settings.ini",
+		"/home/ilnur/.cache/.fr-ArapAe/driver/all/Driver/X86/hw_usbdev.inf",
+		"/home/ilnur/.cache/.fr-PvAXE0/driver/all/Driver/X64/hw_usbdev.cat",
+		"/home/ilnur/projects/sql/pending_original.sql",
+		"/home/ilnur/projects/sql/pending_phpVersion.sql",
+		"/home/ilnur/qtProjects/qrealplay/reports/2017-01/report_2017-01-22.txt",
+		"/home/ilnur/qtProjects/qrealplay/report.sh",
+		"/home/ilnur/qtProjects/qrealplay/reports/2017-01/report_2017-01-17.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/2017-01/report_2017-01-20.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/2017-01/report_2017-01-15.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/2017-01/report_2017-01-14.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/2017-01/report_2017-01-13.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/2017-01/report_2017-01-12.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/2017-01/report_2017-01-11.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/2017-01/report_2017-01-10.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/2017-01/report_2017-01-09.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/2017-01/report_2017-01-08.txt",
+		"/home/ilnur/downloads/M3 FW1.7/How to create M3U playlists for use with FiiO music players.url",
+		"/home/ilnur/qtProjects/qrealplay/reports/2017-01/report_2017-01-06.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/2017-01/report_2017-01-05.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/2017-01/report_2017-01-04.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/2017-01/report_2017-01-07.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-29.txt",
+		"/home/ilnur/projects/vkApi/Alvina.json",
+		"/home/ilnur/qtProjects/qrealplay/reports/2017-01/report_2017-01-03.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-28.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-27.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-26.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-25.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-24.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-22.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-21.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-20.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-19.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-18.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-16.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-14.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-13.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-12.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-11.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-17.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-23.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-15.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-10.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-09.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-08.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-07.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-06.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-05.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-04.txt",
+		"/home/ilnur/projects/sql/pending.sql",
+		"/home/ilnur/qtProjects/qrealplay/reports/mail.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-11-29.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-11-30.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-01.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-02.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/report_2016-12-03.txt",
+		"/home/ilnur/downloads/testing for printer sumsung.txt",
+		"/home/ilnur/downloads/manifest.json",
+		"/home/ilnur/downloads/README",
+		"/home/ilnur/downloads/mysql-5.5.53/CMakeFiles/CMakeOutput.log",
+		"/home/ilnur/downloads/mysql-5.5.53/CMakeFiles/CMakeError.log",
+		"/home/ilnur/qtProjects/qrealplay/reports/november/report_2016-11-28.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/november/report_2016-11-27!.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/november/report_2016-11-26!.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/november/report_2016-11-25.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/november/report_2016-11-24.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/november/report_2016-11-23.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/november/report_2016-11-22.txt",
+		"/home/ilnur/qtProjects/qrealplay/reports/november/report_2016-11-21.txt"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/ilnur/projects/simple-tcp-server"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/projects/simple-tcp-server/tcp-server.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
