@@ -47,6 +47,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/home/ilnur/kabinet/kabinet_backend/src/svc.qworker/index.js",
+			"settings":
+			{
+				"buffer_size": 1092,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -84,6 +93,10 @@
 	],
 	"file_history":
 	[
+		"/home/ilnur/projects/simple-tcp-server/server.mjs",
+		"/home/ilnur/projects/simple-tcp-server/router.mjs",
+		"/home/ilnur/projects/simple-tcp-server/partner/index.mjs",
+		"/home/ilnur/projects/simple-tcp-server/partner.mjs",
 		"/home/ilnur/projects/simple-tcp-server/client.sublime-project",
 		"/home/ilnur/Documents/Spontaneous planning.txt",
 		"/home/ilnur/cppProjects/study/percent.cpp",
@@ -207,11 +220,7 @@
 		"/home/ilnur/qtProjects/qrealplay/reports/november/report_2016-11-28.txt",
 		"/home/ilnur/qtProjects/qrealplay/reports/november/report_2016-11-27!.txt",
 		"/home/ilnur/qtProjects/qrealplay/reports/november/report_2016-11-26!.txt",
-		"/home/ilnur/qtProjects/qrealplay/reports/november/report_2016-11-25.txt",
-		"/home/ilnur/qtProjects/qrealplay/reports/november/report_2016-11-24.txt",
-		"/home/ilnur/qtProjects/qrealplay/reports/november/report_2016-11-23.txt",
-		"/home/ilnur/qtProjects/qrealplay/reports/november/report_2016-11-22.txt",
-		"/home/ilnur/qtProjects/qrealplay/reports/november/report_2016-11-21.txt"
+		"/home/ilnur/qtProjects/qrealplay/reports/november/report_2016-11-25.txt"
 	],
 	"find":
 	{
@@ -229,6 +238,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\t\n"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -252,8 +262,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/home/ilnur/kabinet/kabinet_backend/src/svc.qworker/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1092,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								4
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -263,7 +304,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 39.0
 	},
 	"layout":
 	{
@@ -316,7 +357,7 @@
 		[
 			[
 				"",
-				"~/projects/simple-tcp-server/tcp-server.sublime-workspace"
+				"~/projects/simple-tcp-server/simple-tcp-server.sublime-workspace"
 			]
 		],
 		"width": 380.0
