@@ -1,5 +1,5 @@
-import net from 'net';
-import router from './router';
+const net = require('net');
+const router = require('./router.mjs');
 
 const PORT = 5000;
 

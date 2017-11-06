@@ -1,0 +1,19 @@
+{
+  "name": "simple-tcp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilnuribat/simple-tcp-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilnuribat/simple-tcp-server/issues"
+  },
+  "homepage": "https://github.com/ilnuribat/simple-tcp-server#readme"
+}
